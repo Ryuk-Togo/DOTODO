@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DOTODO
 {
-    public partial class Form1 : Form
+    public partial class Today : Form
     {
-        public Form1()
+        public Today()
         {
             InitializeComponent();
         }
